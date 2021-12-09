@@ -1,0 +1,2 @@
+List ng Vaccine
+List ng Fully Vaccinated, Incomplete, Unvaccinated
